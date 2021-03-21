@@ -1,0 +1,10 @@
+What is NodejS?
+why nodejs?
+Nodejs Module System?
+importing nodejs core module?
+importing your own files?
+importing npm moduels?
+Global Npm moduels & nodemon?
+
+
+    Set-ExecutionPolicy Unrestricted
