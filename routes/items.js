@@ -10,7 +10,7 @@ router.get("/",(req ,res) => {
         applicationName: "ICWS"
     }
     request({
-            uri: "http://192.168.1.230:8018/icws/connection",
+            uri: "http://localhost:8018/icws/connection",
             method: "POST",
             body: body,
             headers:{
